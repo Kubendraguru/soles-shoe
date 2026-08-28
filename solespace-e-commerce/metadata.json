@@ -1,0 +1,8 @@
+{
+  "name": "Solespace E-commerce",
+  "description": "A premium dark-themed e-commerce landing page for shoes, caps, and watches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
